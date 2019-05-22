@@ -9,7 +9,7 @@ The original fingerprintjs2 is https://github.com/Valve/fingerprintjs2
 
 Add this to your Gemfile
 
-`gem 'fingerprintjs2-rails', git:'https://github.com/mh61503891/fingerprintjs2-rails.git'`
+`gem 'fingerprintjs2-rails', git:'https://github.com/prxg22/fingerprintjs2-rails.git'`
 
 and
 
